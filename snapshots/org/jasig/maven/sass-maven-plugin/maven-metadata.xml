@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.jasig.maven</groupId>
+  <artifactId>sass-maven-plugin</artifactId>
+  <versioning>
+    <latest>1.1.2-SNAPSHOT_PLOS</latest>
+    <release>1.1.2-SNAPSHOT_PLOS</release>
+    <versions>
+      <version>1.1.2-SNAPSHOT_PLOS</version>
+    </versions>
+    <lastUpdated>20140815212857</lastUpdated>
+  </versioning>
+</metadata>
